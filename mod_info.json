@@ -1,0 +1,8 @@
+{
+    "id": "darkborderman.lowerlevelcurve",
+    "name": "Lower Level Curve",
+    "author": "Darkborderman",
+    "version": "0.0.0",
+    "description": "Set max player level to 40 and lower exp curve for levels",
+    "gameVersion": "0.95a-RC12"
+}
